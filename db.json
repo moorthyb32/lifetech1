@@ -1,0 +1,15 @@
+{
+  "Student_List": [
+    {
+      "id": 1,
+      "Name": "Moorthy",
+      "Email": "moorthy@gmail.com",
+      "Mobile":"98765432",
+      "Course":"Python",
+      "Description":"intrested to learn Python"
+
+    }
+  ]
+  
+ 
+}
